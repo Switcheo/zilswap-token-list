@@ -1,0 +1,16 @@
+Zilswap Token List
+This token list is used by the Zilswap UI.
+
+Adding your token
+Submit a pull request with the following changes:
+
+Your token address keyed by a unique token symbol in tokens.json. 
+A 64x64 svg logo with the filename as <token_symbol>.svg in the /logos folder.
+In the pull request description, please include:
+
+The project's home page / web domain.
+A URL to a publicly accessible document (within your project's domain), that allows verification of the token address.
+
+ZilConnect Website: https://zilconnect.com/
+ZilConnect Whitepaper (Token Address can be located at the bottom of the Tokenomics page): https://docs.google.com/document/d/1xJwiYcCA_V3st9VUUF1VGciU9qSRWtpgVIwhvXBTLyA/edit
+ZilConnect ViewBlock (Verification of Token Address): https://viewblock.io/zilliqa/address/zil1vau08gznvercdxhtg68hvwt5enkzx4vheugpe6
